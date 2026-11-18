@@ -124,19 +124,6 @@
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vijvalsah&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijvalsah&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=vijvalsah&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 🤝 Let's Connect!
 
 I'm always interested in connecting with developers, exploring innovative AI solutions, and collaborating on exciting projects.
