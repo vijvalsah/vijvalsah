@@ -1,7 +1,7 @@
 
 <!-- 🌟 GitHub Profile README -->
 
-<h1 align="center">Hi 👋, I'm Vijval Valsah</h1>
+<h1 align="center">Hi 👋, I'm Vijval Vittesh Sah</h1>
 
 <h3 align="center">
   AI Engineer | Machine Learning Enthusiast | Software Developer
